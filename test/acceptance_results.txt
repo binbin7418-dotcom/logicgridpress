@@ -1,0 +1,11 @@
+[PASS] generation is deterministic for a fixed seed 
+[PASS] book PDF written 14056 bytes
+[PASS] clue counts in sane band (5-16) counts [11, 11, 10, 10, 10, 12]
+[PASS] every puzzle verified unique-from-clues 
+[PASS] page count = 2 + 2*6 got 14
+[PASS] PDF reopens with 14 pages 
+[PASS] page size 612x792 
+[PASS] 5-house expert puzzle generates + verifies unique clues=19 
+(total 30.6s)
+
+8/8 PASS
